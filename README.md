@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juanrtalmeida
-- 🌱 I’m currently VueJs and Elixir language
+- 🌱 I’m currently learning VueJs and Elixir language
 - 📫 I'm currently working on CWI Software as ReactJs Developer
 
 <!---
