@@ -2,11 +2,13 @@
 
 
 <h1 align="center"> 👋 Hello there , I’m @juanrtalmeida (Aka. Yukito Abe) </h1>
-<p align="center"> I'm a 24 years old software developer who is passionate about creating technology, building community, meeting new people, learning new things and travel. </p>
-
+<p align="center"> I'm a 25 years old software developer who is passionate about creating technology, building community, meeting new people, learning new things and travel. </p>
 <h1 align="center"> 🌱 My skills  </h1>
 
-
+<div align="center">
+ 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juanrtalmeida&hide=vue&theme=dracula)
+</div>
 
  <div align="center"> 
  
