@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> 👋 Hello there , I’m @juanrtalmeida (Aka. Yukito Abe) </h1>
-<p align="center"> I'm a 25 years old software developer who is passionate about creating technology, building community, meeting new people, learning new things and travel. </p>
+<p align="center"> I'm a 26 years old software developer who is passionate about creating technology, building community, meeting new people, learning new things and travel. </p>
 <h1 align="center"> 🌱 My skills  </h1>
 
 <div align="center">
@@ -28,15 +28,15 @@
  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
  ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
  </div>
 
 <h1 align="center"> 📖 What im learning  </h1>
 
  <div align="center"> 
-
-
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+ 
+ ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
  </div>
 <h1 align="center"> 🔎 Where you can find me   </h1>
 
